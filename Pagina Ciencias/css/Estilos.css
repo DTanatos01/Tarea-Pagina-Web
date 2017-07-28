@@ -1,0 +1,67 @@
+.Encabezado {
+	border-left: 6px solid red;
+	background-color:lightgray;
+}
+.Encabezado1 {
+	border-left: 6px solid green;
+	background-color:lightgray;
+}
+.Encabezado2 {
+	border-left: 6px solid yellow;
+	background-color:lightgray;
+}
+.Encabezado3 {
+	border-left: 6px solid blue;
+	background-color:lightgray;
+}
+.Dirigir {
+	position: absolute;
+	left:190px;
+	top:400px;
+    width:75%;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+	}
+td {
+	text-align: center;
+}
+.button {
+	background-color: green;
+    border: none;
+	color: white;
+    text-align: center;
+	font-size: 16px;
+	padding: 10px 16px;
+	cursor: pointer;
+}
+
+.posicion1 {
+	position: absolute;
+	left:372px;
+	top:600px;
+}
+.posicion2 {
+	position: absolute;
+	left:770px;
+	top:600px;
+}
+.posicion3 {
+	position: absolute;
+	left:1150px;
+	top:600px;
+}
+.posicion4 {
+	position: absolute;
+	left:750px;
+	top:750px;
+}
+li {
+	background-color:green;
+}
+h2{
+	background-color: orange;
+}
+p {
+	background-color: lightgray;
+}
